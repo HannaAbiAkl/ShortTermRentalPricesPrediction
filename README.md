@@ -12,7 +12,7 @@ https://wandb.ai/habiakl/short_term_rental_prices
 GitHub Link (this very webpage you are in right now)
 
 ```
-https://github.com/rgalvaog/nd0821-c2-build-model-workflow-starter
+https://github.com/HannaAbiAkl/ShortTermRentalPricesPrediction
 ```
 
 ## Steps to run
