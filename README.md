@@ -26,7 +26,7 @@ pip3 install mlflow
 In your Python environment of choice, you can then run:
 
 ```
-mlflow run https://github.com/rgalvaog/nd0821-c2-build-model-workflow-starter.git -v 1.0.1
+mlflow run https://github.com/HannaAbiAkl/ShortTermRentalPricesPrediction.git -v 1.0.1
 ```
 
 Note: This is version 1.0.1, the latest version released so far. If you would like to load version 1.0.0, you may do that, but note there is a bug with geospacial data.
